@@ -74,7 +74,7 @@ function veig
 	e=diag(abs(D)*e2+e1*eye(N))
 endfunction
   </pre>
-
+### execution
   <pre>
 octave:4> veig
 A =
