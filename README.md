@@ -41,7 +41,7 @@ p111 (*)
 
   THen we have the following estimation
 
-  $\|\lambda_i - \tilde{$\lambda}_i\| \le \|\\tilde{\lambda}_i\|\|F\|_2+\|E\|_2$
+  $\|\lambda_i - \tilde{$\lambda}_i\| \le \|\tilde{\lambda}_i\|\|F\|_2+\|E\|_2$
 
 ## Refferences
 
