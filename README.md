@@ -21,7 +21,13 @@ setround(2): round Round toward zero
 
 ## example
 
-p106 (*)
+p111 (*)
+
+<pre>
+  Theorem - S. Oish
+  Let $A$ be a $n\times n$ real symmetric matrix.
+  WE have a $n\times n$ real symmetric matrix $D$ and a $n\times n$ real matrix $D$ as results.
+</pre>
 
 ## Refferences
 
