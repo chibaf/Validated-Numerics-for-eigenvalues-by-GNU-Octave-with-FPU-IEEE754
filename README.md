@@ -67,13 +67,14 @@ function veig
 	k2=max(abs(F),abs(FF));
 	e1=norm(k,inf)
 	e2=norm(k2,inf)
+	display("\n")
 	display(" errors of approximate eigenvaues\n")
 	e=diag(abs(D)*e2+e1*eye(N))
 endfunction
   </pre>
 ### execution
   <pre>
-octave:4> veig
+octave:6> veig
 A =
 
    1   2   1   2
@@ -99,6 +100,10 @@ Diagonal Matrix
 
 e1 = 1.121325254871409e-14
 e2 = 4.262909171870657e-15
+
+
+ errors of approximate eigenvaues
+
 e =
 
    1.746206906318190e-14
