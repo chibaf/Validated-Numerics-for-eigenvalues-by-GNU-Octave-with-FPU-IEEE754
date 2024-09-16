@@ -39,7 +39,7 @@ p111 (*)
 
   $\tilde{\lambda}_1 \le \cdots \tilde{\lambda}_n$ and $\lambda_1 \le \cdots \le \lambda_n$
 
-  THen we have the following estimation
+  Then we have the following estimation
 
   $\|\lambda_i - \tilde{\lambda}_i\| \le \|\tilde{\lambda}_i\|\|F\|_2+\|E\|_2$
 
