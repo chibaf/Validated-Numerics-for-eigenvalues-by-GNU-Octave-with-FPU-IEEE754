@@ -27,13 +27,13 @@ p111 (*)
   
   Let $A$ be a $n\times n$ real symmetric matrix.
   
-  WE have a $n\times n$ real symmetric matrix $D$ and a $n\times n$ real matrix $P$ as results.
+  We have a $n\times n$ real symmetric matrix $D$ and a $n\times n$ real matrix $P$ as results.
 
   We suppose
 
   $P^t D P = A + E$. $\quad$ $P' P = I + F$
 
-  $E$ and $F$ are real real symmetric matrices.
+  where $E$ and $F$ are real real symmetric matrices.
 
   If $\| F \|_2 \lt 1$ and $P$ is invertible, $\tilde{\lambda}_i$ and $\lambda_i$ are eigenvalues of $D$ and $A$ respectively that satisfy
 
