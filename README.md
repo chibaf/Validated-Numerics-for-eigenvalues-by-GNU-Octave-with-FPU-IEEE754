@@ -29,7 +29,13 @@ p111 (*)
   
   WE have a $n\times n$ real symmetric matrix $D$ and a $n\times n$ real matrix $P$ as results.
 
-  $P^t D P = A + E$.  
+  We suppose
+
+  $P^t D P = A + E$.  $P^' P = I + F$
+
+  $E$ and $F$ are real real symmetric matrices.
+
+  If $\| F \|_2 \lt !$
 
 ## Refferences
 
