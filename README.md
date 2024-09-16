@@ -43,7 +43,7 @@ p111 (*)
 
   $\|\lambda_i - \tilde{\lambda}_i\| \le \|\tilde{\lambda}_i\|\|F\|_2+\|E\|_2$
 
-  ## code
+  ## code: veig.m
 
   <pre>
 function veig
