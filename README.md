@@ -27,7 +27,9 @@ p111 (*)
   
   Let $A$ be a $n\times n$ real symmetric matrix.
   
-  WE have a $n\times n$ real symmetric matrix $D$ and a $n\times n$ real matrix $D$ as results.
+  WE have a $n\times n$ real symmetric matrix $D$ and a $n\times n$ real matrix $P$ as results.
+
+  $P^t D P = A + E$.  
 
 ## Refferences
 
