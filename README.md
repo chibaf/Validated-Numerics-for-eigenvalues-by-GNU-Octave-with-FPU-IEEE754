@@ -31,7 +31,7 @@ p111 (*)
 
   We suppose
 
-  $P^t D P = A + E$.  $P' P = I + F$
+  $P^t D P = A + E$. $\quad$ $P' P = I + F$
 
   $E$ and $F$ are real real symmetric matrices.
 
