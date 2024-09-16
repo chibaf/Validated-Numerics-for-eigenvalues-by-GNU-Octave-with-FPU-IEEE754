@@ -35,7 +35,7 @@ p111 (*)
 
   $E$ and $F$ are real real symmetric matrices.
 
-  If $\| F \|_2 \lt 1$ and $P$ is invertible, $\tilde{\lambda}_i and $\lambda_i$ are eigenvalues of $D$ and $A$ respectively that satisfy
+  If $\| F \|_2 \lt 1$ and $P$ is invertible, $\tilde{\lambda}_i$ and $\lambda_i$ are eigenvalues of $D$ and $A$ respectively that satisfy
 
   $\tilde{\lambda}_1 \le \cdots \tilde{\lambda}_n$ and $\lambda_1 \le \cdots \le \lambda_n$
 
