@@ -37,7 +37,7 @@ p111 (*)
 
   If $\| F \|_2 \lt !$ and $P$ is invertible, $\tilde{\lambda}_i and $\lambda_i$ are eigenvalues of $D$ and $A$ respectively that satisfy
 
-  $\tilde{\lambda}_1 \le \cdots \|\tilde{\lambda}_n$ and $\lambda_1 \le \cdots \le \lambda_n$
+  $\tilde{\lambda}_1 \le \cdots \tilde{\lambda}_n$ and $\lambda_1 \le \cdots \le \lambda_n$
 
   THen we have the following estimation
 
