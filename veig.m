@@ -22,4 +22,5 @@ function veig
 	display("\n")
 	display(" errors of approximate eigenvaues\n")
 	e=diag(abs(D)*e2+e1*eye(N))
+	format % set output to default
 endfunction
